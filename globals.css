@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Roboto";
+}
+
+:root {
+  --cor-de-fundo: #000;
+  --cor-texto-principal: #fff;
+  --cor-placeholder: #8e8e8e;
+  --fonte-principal: "Roboto";
+  --form-fundo: #3c3c3c;
+  --cor-netflix: #d81f26;
+  --cor-saiba-mais: #2f619c;
+}

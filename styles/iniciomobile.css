@@ -1,0 +1,10 @@
+body {
+  background-color: var(--cor-de-fundo);
+  text-align: center;
+  margin: 100% 0;
+}
+
+.imagem__principal {
+  align-items: center;
+  width: 600px;
+}

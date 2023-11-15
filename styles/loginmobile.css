@@ -1,0 +1,36 @@
+body {
+  background-color: var(--cor-de-fundo);
+  text-align: center;
+  margin: 82% 0;
+}
+
+.imagem__login {
+  width: 250px;
+}
+
+.container {
+  display: block;
+  text-align: center;
+}
+
+.container-form {
+  display: block;
+  margin: 2em 0;
+}
+
+#container-email {
+  width: 80%;
+  padding: 1.2em;
+  background-color: var(--form-fundo);
+  border: none;
+  border-radius: 5px;
+  margin-bottom: 1em;
+}
+
+#container-senha {
+  width: 80%;
+  padding: 1.2em;
+  background-color: var(--form-fundo);
+  border: none;
+  border-radius: 5px;
+}
